@@ -8,3 +8,5 @@ Esse texto exemplifica como uma pessoa que se interessou pelo seu trabalho pode 
 Segunda adição de conteudo no arquivo.
 
 Fazendo um test aqui visse renato
+
+Adicioando depois de fazer o PR, tudo pelo github.
